@@ -14,7 +14,7 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun <3',https://github.com/Nhi0211/Nhi0211/blob/731479344333c5e94e537c967c5934bde489301b/C%E1%BB%9D%20r%C3%BAttttttt 
     
 
  
