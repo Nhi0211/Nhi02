@@ -17,3 +17,4 @@ const CONFIG = {
     btnAccept: 'Okiiiii lun <3',
     
 
+ 
